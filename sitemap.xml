@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://raghavbijjula.xyz/categories/</loc>
+    <loc>https://raghavbijjula.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://raghavbijjula.xyz/</loc>
+    <loc>https://raghavbijjula.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://raghavbijjula.xyz/tags/</loc>
+    <loc>https://raghavbijjula.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
